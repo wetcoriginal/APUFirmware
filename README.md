@@ -5,6 +5,15 @@ PC Engines APU firmware auto downloader and updater.
 
 apufirmware v1.00 2022 (c) MonkeyCat ([code.monkeycat.nl](https://code.monkeycat.nl))
 
+## Required
+
+Install flashrom
+```
+apt install flashrom
+
+```
+
+
 ## See also
 
 [APUCtl](https://github.com/Monkeycat-nl/APUCtl) tool to control your hardware from the command line. Like wifi on/off hardware switch and your simcard slot selection.
