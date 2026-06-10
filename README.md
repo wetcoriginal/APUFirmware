@@ -10,7 +10,6 @@ apufirmware v1.00 2022 (c) MonkeyCat ([code.monkeycat.nl](https://code.monkeycat
 Install flashrom
 ```
 apt install flashrom
-
 ```
 
 
